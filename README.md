@@ -1,1 +1,1 @@
-#GEOG5990M Practical Output
+GEOG5990M Practical Output
